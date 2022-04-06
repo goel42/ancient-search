@@ -8,7 +8,7 @@ class App extends Component {
   render() {
     return (
       <section className="container">
-      <ReactiveBase url="https://1969-119-82-108-202.ngrok.io/" app="ancient" enableAppbase={false}>
+      <ReactiveBase url="https://7d5c-49-205-143-178.ngrok.io/" app="ancient" enableAppbase={false}>
 
 
           <DataSearch
